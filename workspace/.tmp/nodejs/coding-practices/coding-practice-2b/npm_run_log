@@ -1,0 +1,5 @@
+  console.log
+    Hello Rahul! Mock Text
+
+      at Object.<anonymous> (../message/index.js:3:9)
+
